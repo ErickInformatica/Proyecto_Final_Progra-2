@@ -1,0 +1,5 @@
+edu\umg\dao\NoticiasDAO.class
+edu\umg\model\Comentarios.class
+edu\umg\model\Noticias.class
+edu\umg\dao\ComentariosDAO.class
+edu\umg\utils\VariablesGlobales.class
